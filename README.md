@@ -1,4 +1,6 @@
-Hey! I'm Anuj! 👋🏻 I'm an aspiring full stack developer dedicated to finding insights in developing as well as educating others in development! Let's connect! My linkendln-: (https://www.linkedin.com/in/balram-thakur-49ba14191/)
+<h1><font color="red">Hey! I'm Anuj! 👋🏻 </font></h1>
+
+I'm an aspiring full stack developer dedicated to finding insights in developing as well as educating others in development! Let's connect! My linkendln-: (https://www.linkedin.com/in/balram-thakur-49ba14191/)
 
 <h1 align="center">
 <img src="https://github.com/anujkumarvats/Final-year-project/blob/main/OIP.jpeg">
