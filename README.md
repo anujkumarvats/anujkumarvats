@@ -1,7 +1,7 @@
 Hey! I'm Anuj! 👋🏻 I'm an aspiring full stack developer dedicated to finding insights in developing as well as educating others in development! Let's connect! My linkendln-: (https://www.linkedin.com/in/balram-thakur-49ba14191/)
 
 <h1 align="center">
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=v5yOgrGY&id=8B00C3E993B0196179FA2444ECAD3F6660B26A44&thid=OIP.v5yOgrGYbWmPJr58hzpEowHaEK&mediaurl=https%3a%2f%2fblog.eduonix.com%2fwp-content%2fuploads%2f2018%2f09%2fFull-Stack-Developer.jpg&exph=900&expw=1600&q=full+stack+developer&simid=608045547176405964&FORM=IRPRST&ck=4C63A3DAAF3971F9B24CB4F9C939A3FA&selectedIndex=0">
+<img src="https://github.com/anujkumarvats/Final-year-project/blob/main/OIP.jpeg">
 </h1>
 
 📊 I was unknown about everying about full stack developer till i have started working on, i have sarted from Java and today learning maven with high energy.
